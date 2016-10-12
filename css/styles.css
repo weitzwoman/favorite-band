@@ -9,12 +9,21 @@ h1 {
   font-family: fantasy;
   background: aqua;
   width: 400px;
+  border: 2px solid magenta;
+  padding: 4px;
+  margin: 12px;
 }
 .column {
-text-align: center;
-font-style: normal;
-width: 300px;
-float: left;
+  text-align: center;
+  font-style: normal;
+  width: 300px;
+  float: left;
+  padding: 5px;
+}
+.special img {
+  padding: 10px;
+  height: 150px;
+  border: solid black;
 }
 p {
   font-weight: bold;

@@ -1,4 +1,4 @@
-# _History of Dirt, a boring lecture_
+# _Favorite Band: David Bowie_
 
 #### _Epicodus exercise to practice HTML and CSS Styling, October 12 2016_
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-_Website about a boring lecture in Latin._
+_Website about the greatness that is David Bowie._
 
 ## Setup/Installation Requirements
 
